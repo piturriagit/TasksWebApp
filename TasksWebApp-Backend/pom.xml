@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.piturria</groupId>
-	<artifactId>TasksWebApp-Frontend</artifactId>
+	<artifactId>TasksWebApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>TasksWebApp</name>
 	<description>Actividad práctica Gestor de Tareas Web</description>
