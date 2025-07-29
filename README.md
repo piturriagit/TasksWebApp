@@ -29,16 +29,16 @@ Desarrollar una aplicación web que permita a un usuario gestionar sus tareas pe
       - [X] fecha_creacion (timestamp)
 4. Seguridad y despliegue:
    - [X] Añadir autenticación básica con JWT (puede ser simulada con un token fijo).
-   - [ ] Despliegue local de frontend y backend (no es necesario en servidor real, aunque se valorará si se hace).
+   - [X] Despliegue local de frontend y backend (no es necesario en servidor real, aunque se valorará si se hace).
 5. Control de versiones:
    - [X] Repositorio en GitHub con los distintos commits bien organizados (mínimo 3-4 commits significativos).
    - [X] Se valorará el uso de ramas.
 
 ## Entregables:
-- [ ] Código fuente completo.
-- [ ] Archivo README.md con instrucciones para ejecutar el proyecto.
+- [X] Código fuente completo.
+- [X] Archivo README.md con instrucciones para ejecutar el proyecto.
 - [ ] Capturas de pantalla del funcionamiento de la app.
-- [ ] (Opcional) Vídeo de menos de 2 minutos mostrando el uso de la aplicación.
+- [X] (Opcional) Vídeo de menos de 2 minutos mostrando el uso de la aplicación.
 
 ## Evaluación:
 - Se valorará la correcta integración entre frontend y backend.
